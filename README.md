@@ -6,4 +6,4 @@ My research interests mainly lie in social science methodology, computational so
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clef233&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clef233&layout=compact&theme=dracula&hide_border=true)
