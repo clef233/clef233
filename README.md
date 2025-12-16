@@ -1,3 +1,9 @@
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I+am+Autu+Clef;Sociology+Student;Focusing+on+Computational+Social+Science;Exploring+NLP+%26+Social+Methodology" alt="Typing SVG" />
+</a>
+</div>
+
 Hi there 👋
 
 I am a sociology student.
