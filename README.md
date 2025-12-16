@@ -6,3 +6,4 @@ My research interests mainly lie in social science methodology, computational so
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clef233&theme=great-gatsby_icons=true)
