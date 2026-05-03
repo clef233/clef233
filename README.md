@@ -24,7 +24,7 @@ Something between *Person of Interest* and Laplace's Demon.
 | | |
 |---|---|
 | 🎓 **Thesis** | Arendt's *Space of Appearance* × Large-Scale Textual Causal Inference |
-| 🚧 **Current** | LLM-based Multi-Agent Social Simulation — modeling emergent social phenomena |
+| 🚧 **Current** | LLM-based Multi-Agent Social Simulation  |
 
 ---
 
