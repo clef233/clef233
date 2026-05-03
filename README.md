@@ -60,7 +60,7 @@ Something between *Person of Interest* and Laplace's Demon.
 
 ---
 
-### 📊 Stats
+###  Stats
 
 <div align="center">
 
