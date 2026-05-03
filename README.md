@@ -64,7 +64,6 @@ Something between *Person of Interest* and Laplace's Demon.
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clef233&layout=compact&theme=highcontrast&hide_border=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=clef233&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
